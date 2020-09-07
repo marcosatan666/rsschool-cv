@@ -83,4 +83,4 @@ Right now I’m a second-year student of F. Skorina Gomel State University. I’
 * Cybersecurity
 * NDG Linux Essentials
 
-English B2
+_English B2_
