@@ -5,7 +5,7 @@ _Hi!_
  Linkedin - https://www.linkedin.com/in/sofia-kustsikava-6063311a3/
 Telegram - @viva_la_vida97
 Mail - waflesmars@gmail.com
-Instagram - @marcosatan
+Instagram - @marcosatan @ufo.lofi
 VK - https://vk.com/waflesmars666
 
  I wanna be DevOps.
