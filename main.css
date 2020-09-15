@@ -1,0 +1,78 @@
+.container {
+    display: block;
+    width: 800px;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+} 
+
+h4 {
+    font-size: 20px;
+}
+
+a {
+    display: block;
+    padding-right: 10px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+
+}
+
+a, p, span {
+    letter-spacing: .7px;
+    line-height: 1.5rem;
+}
+
+.italic {
+    font-style: italic;
+}
+
+ul {
+    font-size: 16px;
+    letter-spacing: .7px;
+}
+
+li {
+    margin-left: 2.5em;
+    line-height: 1.5em;
+    list-style-type: circle;   
+    font-weight: 700;
+}
+
+li:first-child {
+    margin-top: 15px;
+}
+
+.divider {
+    margin: 1rem 0;
+    height: 0;
+    font-size: 1rem;
+    border: 1px solid rgba(34, 36, 38, .15);
+
+}
+
+span.contacts {
+    color: brown;
+    cursor: pointer;
+}
+
+.goal p {
+    display: inline;
+}
+
+.code a {
+    display: inline-block;
+    float: left;
+}
+
+.code span {
+    display: block;
+}
+
+img {
+    width: 100%;
+    margin: 20px auto;
+}
