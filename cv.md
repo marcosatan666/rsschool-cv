@@ -1,5 +1,7 @@
-#Hi!
-####Sofia Kustsikava
+# Hi!
+
+***
+### Sofia Kustsikava
 
 + You can find me at popular messenger:
   + `Linkedin` - **https://www.linkedin.com/in/sofia-kustsikava-6063311a3/**
